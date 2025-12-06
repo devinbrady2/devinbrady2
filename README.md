@@ -1,8 +1,11 @@
 ## Hi there 👋
 I'm Devin, an aspiring full-stack developer.
+
 I am currently working on completing the Odin Project to learn more web development skills.
+
 My current tech stack is simply HTML, CSS, and JavaScript.
-You can reach me through my LinkedIn.
+
+You can reach me through my [LinkedIn](www.linkedin.com/in/devin-brady-b15b20352).
 <!--
 **devinbrady2/devinbrady2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
