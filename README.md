@@ -1,7 +1,7 @@
 ## Hey there 👋
 I'm Devin, an aspiring full-stack developer.
 
-I am currently working on completing the Odin Project to learn more web development skills.
+I am currently working on completing the Odin Project to learn more web development skills, so you will see a lot of those projects here.
 
 My current tech stack is simply HTML, CSS, and JavaScript.
 
