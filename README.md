@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there 👋
 I'm Devin, an aspiring full-stack developer.
 
 I am currently working on completing the Odin Project to learn more web development skills.
